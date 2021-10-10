@@ -1,0 +1,54 @@
+,Airline,Source,Destination,Dep_Time,Arrival_Time,Duration,Total_Stops,Price
+0,AirAsia,New Delhi,Bengaluru,09:25,14:40,05 h 15 m,1 stop via Ranchi,"₹ 7,422"
+1,AirAsia,New Delhi,Bengaluru,05:35,15:40,10 h 05 m,1 stop via Hyderabad,"₹ 7,422"
+2,AirAsia,New Delhi,Bengaluru,08:50,15:50,07 h,1 stop via Pune,"₹ 7,422"
+3,AirAsia,New Delhi,Bengaluru,12:40,18:20,05 h 40 m,1 stop via Goa,"₹ 7,422"
+4,AirAsia,New Delhi,Bengaluru,11:55,18:20,06 h 25 m,1 stop via Goa,"₹ 7,422"
+5,AirAsia,New Delhi,Bengaluru,10:05,18:20,08 h 15 m,1 stop via Bagdogra,"₹ 7,422"
+6,AirAsia,New Delhi,Bengaluru,05:20,18:20,13 h,1 stop via Goa,"₹ 7,422"
+7,AirAsia,New Delhi,Bengaluru,14:30,20:35,06 h 05 m,1 stop via Ranchi,"₹ 7,422"
+8,AirAsia,New Delhi,Bengaluru,15:25,21:20,05 h 55 m,1 stop via Pune,"₹ 7,422"
+9,AirAsia,New Delhi,Bengaluru,21:20,11:20,14 h,1 stop via Kolkata,"₹ 7,422"
+10,Go First,New Delhi,Bengaluru,05:45,08:20,02 h 35 m,Non stop,"₹ 7,424"
+11,Go First,New Delhi,Bengaluru,19:45,22:20,02 h 35 m,Non stop,"₹ 7,424"
+12,Go First,New Delhi,Bengaluru,08:10,13:25,05 h 15 m,1 stop via Goa,"₹ 7,424"
+13,,,,,,,,
+14,,,,,,,,
+15,,,,,,,,
+16,,,,,,,,
+17,,,,,,,,
+18,IndiGo,New Delhi,Bengaluru,06:05,09:15,03 h 10 m,Non stop,"₹ 7,425"
+19,Air India,New Delhi,Bengaluru,06:10,08:55,02 h 45 m,Non stop,"₹ 7,425"
+20,Spicejet,New Delhi,Bengaluru,06:15,08:50,02 h 35 m,Non stop,"₹ 7,425"
+21,Air India,New Delhi,Bengaluru,09:45,12:30,02 h 45 m,Non stop,"₹ 7,425"
+22,IndiGo,New Delhi,Bengaluru,11:05,13:45,02 h 40 m,Non stop,"₹ 7,425"
+23,IndiGo,New Delhi,Bengaluru,13:10,16:00,02 h 50 m,Non stop,"₹ 7,425"
+24,Air India,New Delhi,Bengaluru,13:30,16:15,02 h 45 m,Non stop,"₹ 7,425"
+25,IndiGo,New Delhi,Bengaluru,16:25,19:15,02 h 50 m,Non stop,"₹ 7,425"
+26,IndiGo,New Delhi,Bengaluru,18:45,21:40,02 h 55 m,Non stop,"₹ 7,425"
+27,IndiGo,New Delhi,Bengaluru,20:15,23:05,02 h 50 m,Non stop,"₹ 7,425"
+28,Air India,New Delhi,Bengaluru,21:15,23:55,02 h 40 m,Non stop,"₹ 7,425"
+29,IndiGo,New Delhi,Bengaluru,22:20,01:05,02 h 45 m,Non stop,"₹ 7,425"
+30,IndiGo,New Delhi,Bengaluru,06:15,12:25,06 h 10 m,1 stop via Pune,"₹ 7,425"
+31,IndiGo,New Delhi,Bengaluru,07:10,14:15,07 h 05 m,1 stop via Hyderabad,"₹ 7,425"
+32,IndiGo,New Delhi,Bengaluru,11:00,15:35,04 h 35 m,1 stop via Pune,"₹ 7,425"
+33,IndiGo,New Delhi,Bengaluru,08:10,17:15,09 h 05 m,1 stop via Indore,"₹ 7,425"
+34,IndiGo,New Delhi,Bengaluru,11:35,17:40,06 h 05 m,1 stop via Hyderabad,"₹ 7,425"
+35,IndiGo,New Delhi,Bengaluru,09:45,17:40,07 h 55 m,1 stop via Hyderabad,"₹ 7,425"
+36,IndiGo,New Delhi,Bengaluru,13:35,19:50,06 h 15 m,1 stop via Hyderabad,"₹ 7,425"
+37,IndiGo,New Delhi,Bengaluru,12:30,20:40,08 h 10 m,1 stop via Jaipur,"₹ 7,425"
+38,IndiGo,New Delhi,Bengaluru,22:00,06:50,08 h 50 m,1 stop via Hyderabad,"₹ 7,425"
+39,AirAsia,New Delhi,Bengaluru,08:00,10:50,02 h 50 m,Non stop,"₹ 7,426"
+40,Vistara,New Delhi,Bengaluru,14:10,16:55,02 h 45 m,Non stop,"₹ 7,426"
+41,Vistara,New Delhi,Bengaluru,16:05,18:50,02 h 45 m,Non stop,"₹ 7,426"
+42,Vistara,New Delhi,Bengaluru,17:35,20:25,02 h 50 m,Non stop,"₹ 7,426"
+43,Vistara,New Delhi,Bengaluru,19:50,22:40,02 h 50 m,Non stop,"₹ 7,426"
+44,Vistara,New Delhi,Bengaluru,20:40,23:20,02 h 40 m,Non stop,"₹ 7,426"
+45,IndiGo,New Delhi,Bengaluru,09:45,17:35,07 h 50 m,"2 stop via Hyderabad,Tirupati","₹ 7,478"
+46,AirAsia,New Delhi,Bengaluru,16:15,18:45,02 h 30 m,Non stop,"₹ 7,666"
+47,AirAsia,New Delhi,Bengaluru,04:55,11:30,06 h 35 m,1 stop via Kolkata,"₹ 9,667"
+48,,,,,,,,
+49,,,,,,,,
+50,,,,,,,,
+51,,,,,,,,
+52,,,,,,,,
